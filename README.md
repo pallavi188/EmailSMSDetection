@@ -19,6 +19,7 @@ TF-IDF(word) = TF(word) × log(Total Docs / Docs containing word)
 This rewards words that are unique to spam and penalizes common words.
 
 Dataset
+
 Source: UCI SMS Spam Collection Dataset (Kaggle)
 Size: 5,572 messages
 Classes: Ham (legitimate) and Spam
